@@ -1,0 +1,8 @@
+       Leaderboard         
+       Top 5 Scores        
+Rank  Name      Points    
+1    Mario      9800   
+2    Strati     9799   
+3    Athena     9010   
+4    Elena      9007   
+5    Elizabeth  5000   
